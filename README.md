@@ -1,12 +1,10 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Muhammad Kemal Pasha**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Web Developer** Freshgraduate.<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi Cisco](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya memiliki pengetahuan pada beberapa Teknologi seperti:<br>Bahasa: <br>1. React JS, <br>2.JS Native <br><br>Framework: <br>1.Laravel <br> dan Networking dengan dibekali [sertifikasi dari Cisco](https://).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-kemal-pasha-a97770213/)ku ya.
 
