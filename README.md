@@ -1,12 +1,30 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Kemal Pasha**.<br>
+i'am **Muhammad Kemal Pasha**.<br>
+a Freshgraduate **Web Developer.**<br>
 
-Saya seorang **Web Developer** Freshgraduate.<br>
+<p>I have knowledge in several technologies, such as:</p>
+<br>Bahasa: <br>
+<ol>
+  <li>PHP</li>
+  <li>Javascript</li>
+  <li>C++</li>
+  <li>Java</li>
+  <li>Kotlin</li>
+  <li>Python</li>
+</ol>
 
-Saya memiliki pengetahuan pada beberapa Teknologi seperti:<br>Bahasa: <br>1. React JS, <br>2.JS Native <br><br>Framework: <br>1.Laravel <br> dan Networking dengan dibekali [sertifikasi dari Cisco](https://).<br>
+<br>Framework
+<ol>
+  <li>React</li>
+  <li>Laravel</li>
+  <li>Django</li>
+  <li>Android Studio</li>
+</ol>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-kemal-pasha-a97770213/)ku ya.
+<br>Networking with equipped [sertifikasi from Cisco](https://)<br>
+
+If you're interested in getting to know me, please follow my account [Linkedin](https://www.linkedin.com/in/muhammad-kemal-pasha-a97770213/).
 
 
 <p align="left">
