@@ -22,7 +22,7 @@ a Freshgraduate **Web Developer.**<br>
   <li>Android Studio</li>
 </ol>
 
-<br>Networking with equipped [sertifikasi from Cisco](https://)<br>
+<br>Networking with equipped [Certification from Cisco](https://)<br>
 
 If you're interested in getting to know me, please follow my account [Linkedin](https://www.linkedin.com/in/muhammad-kemal-pasha-a97770213/).
 
