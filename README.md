@@ -1,17 +1,10 @@
-# $${\color{red}✨ Welcome \space \color{lightblue}In \space \color{orange}My\space Profile ✨}$$ 
-Hello, I'm <b>Muhammad Kemal Pasha</b>, I really enjoy exploring technology development, especially websites and mobile which can provide benefits to humans.
+# ${\color{red}✨ Welcome \space \color{lightblue}In \space \color{orange}My\space Profile\space ✨}$
+Hello, I'm $\mathcal{\color{magenta}{Muhammad \ Kemal \ Pasha}}$, I really enjoy exploring technology development, especially websites and mobile which can provide benefits to humans.
+
+# ${\color{orange}Tech \space Stack:}$
+[![My Skills Language](https://skillicons.dev/icons?i=java,kotlin,js,php,cpp,html,css,androidstudio,arduino,bootstrap,dart,docker,express,firebase,flutter,laravel,mysql,mongodb,vscode,tailwind,react,py,nodejs&theme=light)](https://skillicons.dev)
 
 <p>I have knowledge in several technologies, such as:</p>
-<br>Bahasa: <br>
-<ol>
-  <li>PHP</li>
-  <li>Javascript</li>
-  <li>C++</li>
-  <li>Java</li>
-  <li>Kotlin</li>
-  <li>Python</li>
-</ol>
-
 <br>Framework
 <ol>
   <li>React</li>
