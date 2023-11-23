@@ -1,7 +1,5 @@
-# Halo semua! 
-
-i'am **Muhammad Kemal Pasha**.<br>
-a Freshgraduate **Web Developer.**<br>
+# $${\color{red}✨ Welcome \space \color{lightblue}In \space \color{orange}My\space Profile ✨}$$ 
+Hello, I'm <b>Muhammad Kemal Pasha</b>, I really enjoy exploring technology development, especially websites and mobile which can provide benefits to humans.
 
 <p>I have knowledge in several technologies, such as:</p>
 <br>Bahasa: <br>
