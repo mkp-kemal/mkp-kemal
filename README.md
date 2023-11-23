@@ -2,7 +2,7 @@
 Hello, I'm $\mathcal{\color{magenta}{Muhammad \ Kemal \ Pasha}}$, I really enjoy exploring technology development, especially websites and mobile which can provide benefits to humans.
 
 # ${\color{orange}Tech \space Stack:}$
-[![My Skills Language](https://skillicons.dev/icons?i=java,kotlin,js,php,cpp,html,css,androidstudio,arduino,bootstrap,dart,docker,express,firebase,flutter,laravel,mysql,mongodb,vscode,tailwind,react,py,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills Language](https://skillicons.dev/icons?i=java,kotlin,js,php,cpp,html,css,androidstudio,arduino,bootstrap,dart,docker,express,firebase,flutter,laravel,mysql,mongodb,vscode,tailwind,react,py,nodejs&theme=light)]()
 
 <br>Networking with equipped [Certification from Cisco](https://)<br>
 
