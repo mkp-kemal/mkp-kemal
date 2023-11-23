@@ -4,19 +4,20 @@ Hello, I'm $\mathcal{\color{magenta}{Muhammad \ Kemal \ Pasha}}$, I really enjoy
 # ${\color{orange}Tech \space Stack:}$
 [![My Skills Language](https://skillicons.dev/icons?i=java,kotlin,js,php,cpp,html,css,androidstudio,arduino,bootstrap,dart,docker,express,firebase,flutter,laravel,mysql,mongodb,vscode,tailwind,react,py,nodejs&theme=light)](https://skillicons.dev)
 
-<p>I have knowledge in several technologies, such as:</p>
-<br>Framework
-<ol>
-  <li>React</li>
-  <li>Laravel</li>
-  <li>Django</li>
-  <li>Android Studio</li>
-</ol>
-
 <br>Networking with equipped [Certification from Cisco](https://)<br>
 
-If you're interested in getting to know me, please follow my account [Linkedin](https://www.linkedin.com/in/muhammad-kemal-pasha-a97770213/).
-
+# ${\color{orange} Let's \space Collaborate:}$
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-kemal-pasha-a97770213/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/kemal.mkp/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
 <p align="left">
 <a href="https://github.com/mkp-kemal">
