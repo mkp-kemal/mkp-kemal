@@ -14,7 +14,7 @@ Hello, I'm $\mathcal{\color{magenta}{Muhammad \ Kemal \ Pasha}}$, I really enjoy
   <a href="https://www.instagram.com/kemal.mkp/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="">
+  <a href="https://discord.com/users/844824559613509652">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
