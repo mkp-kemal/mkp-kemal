@@ -1,8 +1,8 @@
-# ${\color{red}✨ Welcome \space \color{lightblue}In \space \color{orange}My\space Profile\space ✨}$
+# ${\color{lightblue}✨ Welcome \space \color{lightblue}In \space \color{lightblue}My\space Profile\space ✨}$
 Hello, I'm $\mathcal{\color{magenta}{Muhammad \ Kemal \ Pasha}}$, I really enjoy exploring technology development, especially websites and mobile which can provide benefits to humans.
 
 # ${\color{orange}Tech \space Stack:}$
-[![My Skills Language](https://skillicons.dev/icons?i=java,kotlin,js,php,cpp,html,css,androidstudio,arduino,bootstrap,dart,docker,express,firebase,flutter,laravel,mysql,mongodb,vscode,tailwind,react,py,nodejs&theme=light)](https://github.com/mkp-kemal)
+[![My Skills Language](https://skillicons.dev/icons?i=js,ts,nodejs,nest,vue,react,express,nuxt,next,docker,php,html,css,arduino,gcp,bootstrap,tailwind,dart,firebase,flutter,laravel,mysql,mongodb,py&theme=light)](https://github.com/mkp-kemal)
 
 <br>Networking with equipped [Certification from Cisco](https://)<br>
 
